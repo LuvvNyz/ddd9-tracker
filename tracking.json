@@ -1,20 +1,16 @@
 {
-  "lastRun": "2026-09-13T20:45:04.155Z",
+  "lastRun": "2026-09-13T22:40:28.417Z",
   "clanName": "DDD9",
-  "memberCount": 65,
+  "memberCount": 66,
   "members": {
     "59055981": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -650,6 +646,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -659,7 +659,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "98937612": {
@@ -944,15 +944,11 @@
     "174522516": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -1588,6 +1584,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -1597,7 +1597,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "274186111": {
@@ -2572,8 +2572,8 @@
     "347174412": {
       "firstSeen": "2026-09-05T19:17:59.867Z",
       "lastActiveTs": "2026-09-05T19:17:59.867Z",
-      "totalTrackedMinutes": 590,
-      "totalInactiveMinutes": 590,
+      "totalTrackedMinutes": 600,
+      "totalInactiveMinutes": 600,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -2812,6 +2812,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -2821,21 +2825,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 11607,
+      "inactiveNowMinutes": 11722,
       "avgPerHour": 0
     },
     "422025407": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -3471,6 +3471,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -3480,14 +3484,14 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "427747447": {
       "firstSeen": "2026-09-05T23:08:47.889Z",
       "lastActiveTs": "2026-09-05T23:08:47.889Z",
-      "totalTrackedMinutes": 570,
-      "totalInactiveMinutes": 570,
+      "totalTrackedMinutes": 580,
+      "totalInactiveMinutes": 580,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -3718,6 +3722,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -3727,7 +3735,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 11376,
+      "inactiveNowMinutes": 11492,
       "avgPerHour": 0
     },
     "457671327": {
@@ -4392,15 +4400,11 @@
     "500051871": {
       "firstSeen": "2026-08-22T14:55:11.066Z",
       "lastActiveTs": "2026-08-22T14:55:11.066Z",
-      "totalTrackedMinutes": 2000,
-      "totalInactiveMinutes": 2000,
+      "totalTrackedMinutes": 2010,
+      "totalInactiveMinutes": 2010,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -5036,6 +5040,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -5045,7 +5053,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 32030,
+      "inactiveNowMinutes": 32145,
       "avgPerHour": 0
     },
     "533490688": {
@@ -6369,15 +6377,11 @@
     "591975394": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -7013,6 +7017,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -7022,14 +7030,14 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "594562536": {
       "firstSeen": "2026-09-03T23:19:55.452Z",
       "lastActiveTs": "2026-09-03T23:19:55.452Z",
-      "totalTrackedMinutes": 730,
-      "totalInactiveMinutes": 730,
+      "totalTrackedMinutes": 740,
+      "totalInactiveMinutes": 740,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -7324,6 +7332,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -7333,21 +7345,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 14245,
+      "inactiveNowMinutes": 14361,
       "avgPerHour": 0
     },
     "609835989": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -7983,6 +7991,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -7992,14 +8004,14 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "655490807": {
       "firstSeen": "2026-09-06T05:45:24.379Z",
       "lastActiveTs": "2026-09-06T05:45:24.379Z",
-      "totalTrackedMinutes": 550,
-      "totalInactiveMinutes": 550,
+      "totalTrackedMinutes": 560,
+      "totalInactiveMinutes": 560,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -8222,6 +8234,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -8231,21 +8247,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 10980,
+      "inactiveNowMinutes": 11095,
       "avgPerHour": 0
     },
     "720510545": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -8881,6 +8893,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -8890,14 +8906,14 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "725962339": {
       "firstSeen": "2026-09-06T13:11:43.556Z",
       "lastActiveTs": "2026-09-06T13:11:43.556Z",
-      "totalTrackedMinutes": 530,
-      "totalInactiveMinutes": 530,
+      "totalTrackedMinutes": 540,
+      "totalInactiveMinutes": 540,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -9112,6 +9128,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -9121,14 +9141,14 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 10533,
+      "inactiveNowMinutes": 10649,
       "avgPerHour": 0
     },
     "784807967": {
       "firstSeen": "2026-09-13T11:17:08.558Z",
       "lastActiveTs": "2026-09-13T11:17:08.558Z",
-      "totalTrackedMinutes": 40,
-      "totalInactiveMinutes": 40,
+      "totalTrackedMinutes": 50,
+      "totalInactiveMinutes": 50,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -9146,6 +9166,10 @@
         },
         {
           "ts": "2026-09-13T20:45:04.155Z",
+          "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
           "donated": 0
         }
       ],
@@ -9156,7 +9180,7 @@
         "d12h": null
       },
       "donated": 0,
-      "inactiveNowMinutes": 568,
+      "inactiveNowMinutes": 683,
       "avgPerHour": 0
     },
     "829708271": {
@@ -10480,8 +10504,8 @@
     "882180979": {
       "firstSeen": "2026-09-06T13:11:43.556Z",
       "lastActiveTs": "2026-09-06T13:11:43.556Z",
-      "totalTrackedMinutes": 530,
-      "totalInactiveMinutes": 530,
+      "totalTrackedMinutes": 540,
+      "totalInactiveMinutes": 540,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -10696,6 +10720,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -10705,7 +10733,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 10533,
+      "inactiveNowMinutes": 10649,
       "avgPerHour": 0
     },
     "1118150373": {
@@ -12029,8 +12057,8 @@
     "1160466453": {
       "firstSeen": "2026-09-06T13:11:43.556Z",
       "lastActiveTs": "2026-09-06T13:11:43.556Z",
-      "totalTrackedMinutes": 530,
-      "totalInactiveMinutes": 530,
+      "totalTrackedMinutes": 540,
+      "totalInactiveMinutes": 540,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -12245,6 +12273,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -12254,7 +12286,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 10533,
+      "inactiveNowMinutes": 10649,
       "avgPerHour": 0
     },
     "1179750334": {
@@ -12919,15 +12951,11 @@
     "1209376511": {
       "firstSeen": "2026-08-19T21:02:15.894Z",
       "lastActiveTs": "2026-08-19T21:02:15.894Z",
-      "totalTrackedMinutes": 2440,
-      "totalInactiveMinutes": 2440,
+      "totalTrackedMinutes": 2450,
+      "totalInactiveMinutes": 2450,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -13563,6 +13591,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -13572,21 +13604,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 35983,
+      "inactiveNowMinutes": 36098,
       "avgPerHour": 0
     },
     "1248730974": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -14222,6 +14250,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -14231,14 +14263,14 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "1253433916": {
       "firstSeen": "2026-09-09T18:33:55.157Z",
       "lastActiveTs": "2026-09-09T18:33:55.157Z",
-      "totalTrackedMinutes": 310,
-      "totalInactiveMinutes": 310,
+      "totalTrackedMinutes": 320,
+      "totalInactiveMinutes": 320,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -14365,6 +14397,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -14374,21 +14410,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 5891,
+      "inactiveNowMinutes": 6007,
       "avgPerHour": 0
     },
     "1259580469": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -15024,6 +15056,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -15033,7 +15069,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "1292317316": {
@@ -17016,15 +17052,11 @@
     "1394948964": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -17660,6 +17692,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -17669,7 +17705,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "1421675430": {
@@ -17726,15 +17762,11 @@
     "1430205977": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -18370,6 +18402,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -18379,21 +18415,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "1467345694": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -19029,6 +19061,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -19038,7 +19074,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "1701609674": {
@@ -19703,15 +19739,11 @@
     "1734476989": {
       "firstSeen": "2026-08-10T14:34:12.753Z",
       "lastActiveTs": "2026-08-10T14:34:12.753Z",
-      "totalTrackedMinutes": 2400,
-      "totalInactiveMinutes": 2400,
+      "totalTrackedMinutes": 2410,
+      "totalInactiveMinutes": 2410,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-17T05:22:04.821Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-17T08:03:54.999Z",
           "donated": 0
@@ -20347,6 +20379,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -20356,7 +20392,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 49331,
+      "inactiveNowMinutes": 49446,
       "avgPerHour": 0
     },
     "1749842488": {
@@ -20437,15 +20473,11 @@
     "1788837148": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3740,
-      "totalInactiveMinutes": 3740,
+      "totalTrackedMinutes": 3750,
+      "totalInactiveMinutes": 3750,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T16:07:16.262Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T17:51:54.778Z",
           "donated": 0
@@ -21081,6 +21113,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -21090,7 +21126,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "1836004969": {
@@ -21818,15 +21854,11 @@
     "2017379325": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -22462,6 +22494,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -22471,7 +22507,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "2062992874": {
@@ -22511,6 +22547,29 @@
       },
       "donated": 0,
       "inactiveNowMinutes": 416,
+      "avgPerHour": 0
+    },
+    "2240548550": {
+      "firstSeen": "2026-09-13T22:40:28.417Z",
+      "lastActiveTs": "2026-09-13T22:40:28.417Z",
+      "totalTrackedMinutes": 10,
+      "totalInactiveMinutes": 10,
+      "currentStreakMinutes": 0,
+      "bestStreakMinutes": 0,
+      "samples": [
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
+        }
+      ],
+      "deltas": {
+        "d5m": null,
+        "d30m": null,
+        "d60m": null,
+        "d12h": null
+      },
+      "donated": 0,
+      "inactiveNowMinutes": 0,
       "avgPerHour": 0
     },
     "2273370172": {
@@ -23175,15 +23234,11 @@
     "2289054962": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -23819,6 +23874,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -23828,7 +23887,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "2301354966": {
@@ -24493,15 +24552,11 @@
     "2329493046": {
       "firstSeen": "2026-08-24T14:24:23.060Z",
       "lastActiveTs": "2026-08-24T14:24:23.060Z",
-      "totalTrackedMinutes": 1660,
-      "totalInactiveMinutes": 1660,
+      "totalTrackedMinutes": 1670,
+      "totalInactiveMinutes": 1670,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -25137,6 +25192,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -25146,7 +25205,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 29181,
+      "inactiveNowMinutes": 29296,
       "avgPerHour": 0
     },
     "2351311436": {
@@ -25873,8 +25932,8 @@
     "2488432785": {
       "firstSeen": "2026-09-05T17:23:38.364Z",
       "lastActiveTs": "2026-09-05T17:23:38.364Z",
-      "totalTrackedMinutes": 600,
-      "totalInactiveMinutes": 600,
+      "totalTrackedMinutes": 610,
+      "totalInactiveMinutes": 610,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -26117,6 +26176,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -26126,21 +26189,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 11721,
+      "inactiveNowMinutes": 11837,
       "avgPerHour": 0
     },
     "2497763616": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3400,
-      "totalInactiveMinutes": 3400,
+      "totalTrackedMinutes": 3410,
+      "totalInactiveMinutes": 3410,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -26776,6 +26835,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -26785,14 +26848,14 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "2540885315": {
       "firstSeen": "2026-09-08T09:39:23.670Z",
       "lastActiveTs": "2026-09-08T09:39:23.670Z",
-      "totalTrackedMinutes": 400,
-      "totalInactiveMinutes": 400,
+      "totalTrackedMinutes": 410,
+      "totalInactiveMinutes": 410,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -26955,6 +27018,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -26964,7 +27031,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 7866,
+      "inactiveNowMinutes": 7981,
       "avgPerHour": 0
     },
     "2541185402": {
@@ -27629,15 +27696,11 @@
     "2564508637": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -28273,6 +28336,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -28282,7 +28349,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "2602963890": {
@@ -28947,15 +29014,11 @@
     "2726912846": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -29591,6 +29654,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -29600,21 +29667,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "2902514189": {
       "firstSeen": "2026-08-22T16:53:29.132Z",
       "lastActiveTs": "2026-08-22T16:53:29.132Z",
-      "totalTrackedMinutes": 1980,
-      "totalInactiveMinutes": 1980,
+      "totalTrackedMinutes": 1990,
+      "totalInactiveMinutes": 1990,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -30250,6 +30313,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -30259,21 +30326,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 31912,
+      "inactiveNowMinutes": 32027,
       "avgPerHour": 0
     },
     "2970802447": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -30909,6 +30972,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -30918,14 +30985,14 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "3192494969": {
       "firstSeen": "2026-09-01T15:10:39.214Z",
       "lastActiveTs": "2026-09-01T15:10:39.214Z",
-      "totalTrackedMinutes": 900,
-      "totalInactiveMinutes": 900,
+      "totalTrackedMinutes": 910,
+      "totalInactiveMinutes": 910,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -31288,6 +31355,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -31297,21 +31368,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 17614,
+      "inactiveNowMinutes": 17730,
       "avgPerHour": 0
     },
     "3200090129": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -31947,6 +32014,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -31956,14 +32027,14 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "3270355977": {
       "firstSeen": "2026-09-08T13:53:15.835Z",
       "lastActiveTs": "2026-09-08T13:53:15.835Z",
-      "totalTrackedMinutes": 390,
-      "totalInactiveMinutes": 390,
+      "totalTrackedMinutes": 400,
+      "totalInactiveMinutes": 400,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -32122,6 +32193,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -32131,7 +32206,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 7612,
+      "inactiveNowMinutes": 7727,
       "avgPerHour": 0
     },
     "3397561647": {
@@ -32796,15 +32871,11 @@
     "3406762977": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -33440,6 +33511,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -33449,7 +33524,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "3426825171": {
@@ -34114,15 +34189,11 @@
     "3480295741": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -34758,6 +34829,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -34767,21 +34842,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "3510746615": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -35417,6 +35488,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -35426,14 +35501,14 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "3773471940": {
       "firstSeen": "2026-09-09T01:04:59.363Z",
       "lastActiveTs": "2026-09-09T01:04:59.363Z",
-      "totalTrackedMinutes": 350,
-      "totalInactiveMinutes": 350,
+      "totalTrackedMinutes": 360,
+      "totalInactiveMinutes": 360,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -35576,6 +35651,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -35585,21 +35664,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 6940,
+      "inactiveNowMinutes": 7055,
       "avgPerHour": 0
     },
     "3845181416": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -36235,6 +36310,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -36244,30 +36323,34 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "3845223133": {
       "firstSeen": "2026-09-13T20:45:04.155Z",
       "lastActiveTs": "2026-09-13T20:45:04.155Z",
-      "totalTrackedMinutes": 10,
-      "totalInactiveMinutes": 10,
+      "totalTrackedMinutes": 20,
+      "totalInactiveMinutes": 20,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
-        "d5m": null,
-        "d30m": null,
-        "d60m": null,
+        "d5m": 0,
+        "d30m": 0,
+        "d60m": 0,
         "d12h": null
       },
       "donated": 0,
-      "inactiveNowMinutes": 0,
+      "inactiveNowMinutes": 115,
       "avgPerHour": 0
     },
     "3875617773": {
@@ -36808,8 +36891,8 @@
     "3908753498": {
       "firstSeen": "2026-09-05T12:07:40.358Z",
       "lastActiveTs": "2026-09-05T12:07:40.358Z",
-      "totalTrackedMinutes": 620,
-      "totalInactiveMinutes": 620,
+      "totalTrackedMinutes": 630,
+      "totalInactiveMinutes": 630,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -37060,6 +37143,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -37069,7 +37156,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 12037,
+      "inactiveNowMinutes": 12153,
       "avgPerHour": 0
     },
     "3918005881": {
@@ -37773,15 +37860,11 @@
     "4020574995": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -38417,6 +38500,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -38426,7 +38513,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "4046413365": {
@@ -39750,15 +39837,11 @@
     "4079497145": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -40394,6 +40477,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -40403,21 +40490,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "4092035034": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -41053,6 +41136,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -41062,21 +41149,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "4145420185": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -41712,6 +41795,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -41721,21 +41808,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "4146948367": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -42371,6 +42454,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -42380,21 +42467,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "4227496853": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -43030,6 +43113,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -43039,21 +43126,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "5090297566": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -43689,6 +43772,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -43698,21 +43785,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "5715522738": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -44348,6 +44431,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -44357,21 +44444,17 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "4506320002": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -45007,6 +45090,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -45016,7 +45103,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "10086465335": {
@@ -45681,15 +45768,11 @@
     "5111061065": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -46325,6 +46408,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -46334,7 +46421,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "11273645672": {
@@ -46999,15 +47086,11 @@
     "10732635617": {
       "firstSeen": "2026-08-09T10:22:31.203Z",
       "lastActiveTs": "2026-08-09T10:22:31.203Z",
-      "totalTrackedMinutes": 3790,
-      "totalInactiveMinutes": 3790,
+      "totalTrackedMinutes": 3800,
+      "totalInactiveMinutes": 3800,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -47643,6 +47726,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -47652,7 +47739,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 51023,
+      "inactiveNowMinutes": 51138,
       "avgPerHour": 0
     },
     "10693743650": {
@@ -51612,15 +51699,11 @@
     "5012828623": {
       "firstSeen": "2026-08-22T13:22:05.496Z",
       "lastActiveTs": "2026-08-22T13:22:05.496Z",
-      "totalTrackedMinutes": 2020,
-      "totalInactiveMinutes": 2020,
+      "totalTrackedMinutes": 2030,
+      "totalInactiveMinutes": 2030,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -52256,6 +52339,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -52265,7 +52352,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 32123,
+      "inactiveNowMinutes": 32238,
       "avgPerHour": 0
     },
     "11273481273": {
@@ -53172,15 +53259,11 @@
     "5316313773": {
       "firstSeen": "2026-08-24T16:07:16.262Z",
       "lastActiveTs": "2026-08-24T16:07:16.262Z",
-      "totalTrackedMinutes": 1650,
-      "totalInactiveMinutes": 1650,
+      "totalTrackedMinutes": 1660,
+      "totalInactiveMinutes": 1660,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-08-24T23:01:23.608Z",
-          "donated": 0
-        },
         {
           "ts": "2026-08-24T23:54:13.424Z",
           "donated": 0
@@ -53816,6 +53899,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -53825,7 +53912,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 29078,
+      "inactiveNowMinutes": 29193,
       "avgPerHour": 0
     },
     "7941361867": {
@@ -53962,8 +54049,8 @@
     "11332093148": {
       "firstSeen": "2026-09-05T17:23:38.364Z",
       "lastActiveTs": "2026-09-05T17:23:38.364Z",
-      "totalTrackedMinutes": 600,
-      "totalInactiveMinutes": 600,
+      "totalTrackedMinutes": 610,
+      "totalInactiveMinutes": 610,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -54206,6 +54293,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -54215,14 +54306,14 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 11721,
+      "inactiveNowMinutes": 11837,
       "avgPerHour": 0
     },
     "4724502340": {
       "firstSeen": "2026-09-05T23:08:47.889Z",
       "lastActiveTs": "2026-09-05T23:08:47.889Z",
-      "totalTrackedMinutes": 570,
-      "totalInactiveMinutes": 570,
+      "totalTrackedMinutes": 580,
+      "totalInactiveMinutes": 580,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -54453,6 +54544,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -54462,14 +54557,14 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 11376,
+      "inactiveNowMinutes": 11492,
       "avgPerHour": 0
     },
     "11492359433": {
       "firstSeen": "2026-09-06T05:45:24.379Z",
       "lastActiveTs": "2026-09-06T05:45:24.379Z",
-      "totalTrackedMinutes": 550,
-      "totalInactiveMinutes": 550,
+      "totalTrackedMinutes": 560,
+      "totalInactiveMinutes": 560,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -54692,6 +54787,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -54701,14 +54800,14 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 10980,
+      "inactiveNowMinutes": 11095,
       "avgPerHour": 0
     },
     "7851610597": {
       "firstSeen": "2026-09-06T13:11:43.556Z",
       "lastActiveTs": "2026-09-06T13:11:43.556Z",
-      "totalTrackedMinutes": 530,
-      "totalInactiveMinutes": 530,
+      "totalTrackedMinutes": 540,
+      "totalInactiveMinutes": 540,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -54923,6 +55022,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -54932,14 +55035,14 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 10533,
+      "inactiveNowMinutes": 10649,
       "avgPerHour": 0
     },
     "5198812735": {
       "firstSeen": "2026-09-06T22:25:54.281Z",
       "lastActiveTs": "2026-09-06T22:25:54.281Z",
-      "totalTrackedMinutes": 490,
-      "totalInactiveMinutes": 490,
+      "totalTrackedMinutes": 500,
+      "totalInactiveMinutes": 500,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -55138,6 +55241,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -55147,14 +55254,14 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 9979,
+      "inactiveNowMinutes": 10095,
       "avgPerHour": 0
     },
     "8310322995": {
       "firstSeen": "2026-09-07T00:13:44.948Z",
       "lastActiveTs": "2026-09-07T00:13:44.948Z",
-      "totalTrackedMinutes": 480,
-      "totalInactiveMinutes": 480,
+      "totalTrackedMinutes": 490,
+      "totalInactiveMinutes": 490,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -55349,6 +55456,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -55358,14 +55469,14 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 9871,
+      "inactiveNowMinutes": 9987,
       "avgPerHour": 0
     },
     "5291803796": {
       "firstSeen": "2026-09-07T15:44:58.730Z",
       "lastActiveTs": "2026-09-07T15:44:58.730Z",
-      "totalTrackedMinutes": 450,
-      "totalInactiveMinutes": 450,
+      "totalTrackedMinutes": 460,
+      "totalInactiveMinutes": 460,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -55548,6 +55659,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -55557,14 +55672,14 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 8940,
+      "inactiveNowMinutes": 9055,
       "avgPerHour": 0
     },
     "4640464733": {
       "firstSeen": "2026-09-08T13:53:15.835Z",
       "lastActiveTs": "2026-09-08T13:53:15.835Z",
-      "totalTrackedMinutes": 390,
-      "totalInactiveMinutes": 390,
+      "totalTrackedMinutes": 400,
+      "totalInactiveMinutes": 400,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -55723,6 +55838,10 @@
         {
           "ts": "2026-09-13T20:45:04.155Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-09-13T22:40:28.417Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -55732,7 +55851,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 7612,
+      "inactiveNowMinutes": 7727,
       "avgPerHour": 0
     }
   }
