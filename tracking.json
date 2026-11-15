@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-11-15T03:10:01.120Z",
+  "lastRun": "2026-11-15T10:54:58.297Z",
   "clanName": "DDD9",
   "memberCount": 3,
   "members": {
@@ -26167,8 +26167,8 @@
     "1523478245": {
       "firstSeen": "2026-10-28T13:53:04.463Z",
       "lastActiveTs": "2026-10-28T13:53:04.463Z",
-      "totalTrackedMinutes": 730,
-      "totalInactiveMinutes": 730,
+      "totalTrackedMinutes": 740,
+      "totalInactiveMinutes": 740,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -26463,6 +26463,10 @@
         {
           "ts": "2026-11-15T03:10:01.120Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-11-15T10:54:58.297Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -26472,7 +26476,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 25277,
+      "inactiveNowMinutes": 25742,
       "avgPerHour": 0
     },
     "1623600721": {
@@ -32319,15 +32323,11 @@
     "2264011461": {
       "firstSeen": "2026-10-04T06:25:19.382Z",
       "lastActiveTs": "2026-10-04T06:25:19.382Z",
-      "totalTrackedMinutes": 2050,
-      "totalInactiveMinutes": 2050,
+      "totalTrackedMinutes": 2060,
+      "totalInactiveMinutes": 2060,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
-        {
-          "ts": "2026-10-14T09:26:35.367Z",
-          "donated": 0
-        },
         {
           "ts": "2026-10-14T14:37:56.446Z",
           "donated": 0
@@ -32963,6 +32963,10 @@
         {
           "ts": "2026-11-15T03:10:01.120Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-11-15T10:54:58.297Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -32972,7 +32976,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 60285,
+      "inactiveNowMinutes": 60750,
       "avgPerHour": 0
     },
     "2268770081": {
@@ -60988,8 +60992,8 @@
     "4167137507": {
       "firstSeen": "2026-10-18T17:29:59.788Z",
       "lastActiveTs": "2026-10-18T17:29:59.788Z",
-      "totalTrackedMinutes": 1310,
-      "totalInactiveMinutes": 1310,
+      "totalTrackedMinutes": 1320,
+      "totalInactiveMinutes": 1320,
       "currentStreakMinutes": 0,
       "bestStreakMinutes": 0,
       "samples": [
@@ -61516,6 +61520,10 @@
         {
           "ts": "2026-11-15T03:10:01.120Z",
           "donated": 0
+        },
+        {
+          "ts": "2026-11-15T10:54:58.297Z",
+          "donated": 0
         }
       ],
       "deltas": {
@@ -61525,7 +61533,7 @@
         "d12h": 0
       },
       "donated": 0,
-      "inactiveNowMinutes": 39460,
+      "inactiveNowMinutes": 39925,
       "avgPerHour": 0
     },
     "4227496853": {
